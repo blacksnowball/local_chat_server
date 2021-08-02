@@ -1,0 +1,3 @@
+Bad message! Not a valid message type (should only be CONNECT requests).
+Bad message! Not a valid message type.
+Bad message! Not a valid message type.
